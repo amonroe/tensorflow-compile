@@ -3,7 +3,7 @@ Tensorflow wheel for Python 3.7 but without AVX support for running on less capa
 
 You can install directly from github using:
 ```
-pip install --ignore-installed --upgrade "Download URL" 
+pip install --ignore-installed --upgrade /path/to/binary.whl
 ```
 
 | TF    | HW  | OS                | GCC              | Python | Does NOT Support                                            |                                                                                                                                                                                |
