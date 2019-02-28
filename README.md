@@ -1,7 +1,7 @@
 # tensorflow-compile
 Tensorflow wheel for Python 3.7 but without AVX support for running on less capable CPUs.  This was compiled on a Celeron J4105.  
 
-You can install directly from github using:
+You can install using:
 ```
 pip install --ignore-installed --upgrade /path/to/binary.whl
 ```
